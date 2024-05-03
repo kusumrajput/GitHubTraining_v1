@@ -1,3 +1,6 @@
 This is a sample file for git test
 
 This is another commit.
+
+Third commit.
+
