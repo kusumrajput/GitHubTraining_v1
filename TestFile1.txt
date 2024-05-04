@@ -4,6 +4,3 @@ This is another commit.
 
 Third commit.
 Fourth Commit
-
-
-sample reset commit.
